@@ -1,0 +1,9 @@
+[package]
+name = "u4_a2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+prettytable-rs = "0.10.0"
+serde_json = "1.0.117"
